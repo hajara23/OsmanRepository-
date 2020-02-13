@@ -14,9 +14,9 @@ Scanner Obj = new Scanner (System.in);
 System.out.println("Enter an integer value");
 
 int x_val = 10; //Obj.nextInt();
-int value = 0;
 int haj = 20; //change
 int count = 1;
+int osman = 99; 
 
 while (x_val >= 1)
 { 
