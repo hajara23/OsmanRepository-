@@ -15,6 +15,7 @@ System.out.println("Enter an integer value");
 
 int x_val = 10; //Obj.nextInt();
 int value = 0;
+int haj = 20; 
 int count = 1;
 
 while (x_val >= 1)
