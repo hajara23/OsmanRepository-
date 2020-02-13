@@ -15,7 +15,7 @@ System.out.println("Enter an integer value");
 
 int x_val = 10; //Obj.nextInt();
 int value = 0;
-int haj = 20; 
+int haj = 20; //change
 int count = 1;
 
 while (x_val >= 1)
@@ -38,7 +38,8 @@ System.out.println("value is" + val);
 
 System.out.println("value"+value);  
 System.out.println("Count"+count);
-System.out.println("x"+ x_val);  
+System.out.println("x"+ x_val); 
+System.out.println("CHANGE");  
 }  
 System.out.println("DONE!");  
 
